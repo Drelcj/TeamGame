@@ -1,0 +1,98 @@
+[
+    {
+      "question": "Who is the CEO of HNG??",
+      "choice1": "Drelcj",
+      "choice2": "Xyluz",
+      "choice3": "Tomisunlalude",
+      "choice4": "Mark Essien",
+      "answer": 4
+    },
+    {
+      "question": "What other program is associated with HNG",
+      "choice1": "End.ng",
+      "choice2": "Begin.ng",
+      "choice3": "Start.ng",
+      "choice4": "Iterate.ng",
+      "answer": 3
+    },
+    {
+      "question": "Which of the following companies is a sponsor to one of our programs",
+      "choice1": "Twitter",
+      "choice2": "Slackbot",
+      "choice3": "Cowbell",
+      "choice4": "Piggyvest",
+      "answer": 4
+    },
+    {
+        "question": "What is the colour of Tomisunlalude's favourite emoji",
+        "choice1": "Off-white",
+        "choice2": "Pink",
+        "choice3": "Black",
+        "choice4": "Purple",
+        "answer": 4
+      },
+      {
+        "question": "What is the full name of Xyluz",
+        "choice1": "Seyi Onirugbon",
+        "choice2": "Seyi Omo-iya-Ologi",
+        "choice3": "Seyi Onifade",
+        "choice4": "Seyi Onifede",
+        "answer": 3
+      },
+      {
+        "question": "One of the following was not a team in HNGi7",
+        "choice1": "Team Falcon",
+        "choice2": "Team Sentry",
+        "choice3": "Team afengers",
+        "choice4": "Team Incredible",
+        "answer": 3
+      },
+      {
+        "question": "What is the twitter handle of Mark",
+        "choice1": "@markessien",
+        "choice2": "@drelcj",
+        "choice3": "@xyluz",
+        "choice4": "@markesien",
+        "answer": 1
+      },
+      {
+        "question": "One of these is a popular phrase in HNGi7",
+        "choice1": "Sleep is for the strong",
+        "choice2": "You'll never walk alone",
+        "choice3": "No UEFA for chelsea next season",
+        "choice4": "Sleep is for the weak",
+        "answer": 4
+      },
+      {
+        "question": "In HNGi7, if your egungun is not carefull, where will it land",
+        "choice1": "Cambridge and",
+        "choice2": "Badagry",
+        "choice3": "Express",
+        "choice4": "Way",
+        "answer": 3
+      },
+      {
+        "question": "Which of the following is the channel for rants and bants(You'll fail this one, oooin)",
+        "choice1": "Team falcon",
+        "choice2": "Announcement",
+        "choice3": "Random",
+        "choice4": "Discussions-Mentors-Only",
+        "answer": 4
+      },
+      {
+        "question": "Wait what if i get deactivated still, what should i do?",
+        "choice1": "Crry all day",
+        "choice2": "Continue Learning",
+        "choice3": "Sell my laptop",
+        "choice4": "Wait till next 4years before i start again",
+        "answer": 3
+      },
+      {
+        "question": "If you come accross this question, it is the last in my json file!",
+        "choice1": "Please",
+        "choice2": "Don't",
+        "choice3": "Leave",
+        "choice4": "Me",
+        "answer": 4
+      }
+  ]
